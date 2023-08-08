@@ -58,5 +58,6 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Euler Oracle Manipulation Tool](https://oracle.euler.finance/)
 - [Chaos Lab Uniswap v3 Oracle Manipulation Risk](https://community.chaoslabs.xyz/uniswap/twap)
 - [Agent Buttercup simulation engine](https://github.com/Cozy-Finance/agent-buttercup)
+- [Curve simulation tool](https://github.com/curveresearch/curvesim)
 
 ## Other Resources
