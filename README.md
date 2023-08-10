@@ -37,12 +37,15 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 
 - [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers](https://arxiv.org/abs/2303.00208) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [An Efficient Algorithm for Optimal Routing Through Constant Function Market Makers](https://arxiv.org/abs/2302.04938) by Theo Diamandis, Max Resnick, Tarun Chitra, Guillermo Angeris
+- [Attacks on Dynamic DeFi Interest Rate Curves](https://arxiv.org/pdf/2307.13139.pdf) by Tarun Chitra, Peteris Erins, Kshitij Kulkarni
 - [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://arxiv.org/abs/2305.14604) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [Automated Market Making and Loss-Versus-Rebalancing](https://arxiv.org/abs/2208.06046) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden, Anthony Lee Zhang
 - [Blockchain scaling and liquidity concentration on decentralized exchanges](https://arxiv.org/abs/2306.17742) by Basile Caparros, Amit Chaudhary, Olga Klein
 - [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://arxiv.org/abs/2302.11652) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/abs/2306.09421) by Jason Milionis, Xin Wan, Austin Adams
+- [Liquidity fragmentation on decentralized exchanges](https://arxiv.org/pdf/2307.13772.pdf) by Alfred Lehar, Christine Parlour, and Marius Zoican
 - [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://eprint.iacr.org/2023/254) by Kaihua Qin, Jens Ernstberger, Liyi Zhou, Philipp Jovanovic, Arthur Gervais
+- [The Pricing And Hedging Of Constant Function Market Makers](https://arxiv.org/pdf/2306.11580.pdf) by Richard Dewey, Craig Newbold
 - [The Principal–Agent Problem in Liquid Staking](https://eprint.iacr.org/2023/605) by Apostolos Tzinas, Dionysis Zindros
 - [When Bidders Are DAOs](https://arxiv.org/abs/2306.17099) by Maryam Bahrani, Pranav Garimidi, Tim Roughgarden
 
