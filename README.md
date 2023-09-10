@@ -45,6 +45,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/abs/2306.09421) by Jason Milionis, Xin Wan, Austin Adams
 - [Liquidity fragmentation on decentralized exchanges](https://arxiv.org/pdf/2307.13772.pdf) by Alfred Lehar, Christine Parlour, and Marius Zoican
 - [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://eprint.iacr.org/2023/254) by Kaihua Qin, Jens Ernstberger, Liyi Zhou, Philipp Jovanovic, Arthur Gervais
+- [The Geometry of Constant Function Market Makers](https://arxiv.org/abs/2308.08066) by Guillermo Angeris, Tarun Chitra, Theo Diamandis, Alex Evans, Kshitij Kulkarni
 - [The Pricing And Hedging Of Constant Function Market Makers](https://arxiv.org/pdf/2306.11580.pdf) by Richard Dewey, Craig Newbold
 - [The Principal–Agent Problem in Liquid Staking](https://eprint.iacr.org/2023/605) by Apostolos Tzinas, Dionysis Zindros
 - [When Bidders Are DAOs](https://arxiv.org/abs/2306.17099) by Maryam Bahrani, Pranav Garimidi, Tim Roughgarden
@@ -63,5 +64,6 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Agent Buttercup simulation engine](https://github.com/Cozy-Finance/agent-buttercup)
 - [Curve simulation tool](https://github.com/curveresearch/curvesim)
 - [DELV agent-based simulation tool](https://github.com/delvtech/elf-simulations)
+- Uniswap v3 simulator [option 1](https://github.com/Bella-DeFinTech/uniswap-v3-simulator), [option 2](https://github.com/aloelabs/uniswap-simulator), [option 3](https://github.com/DefiLab-xyz/uniswap-v3-simulator)
 
 ## Other Resources
