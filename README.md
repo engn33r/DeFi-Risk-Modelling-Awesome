@@ -56,6 +56,8 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Chaos Labs](https://chaoslabs.xyz/research)
 - [Warden Finance](https://warden.ghost.io/)
 - [20squares](https://blog.20squares.xyz/)
+- [RiskDAO](https://riskdao.org/)
+- [Block Analitica](https://medium.com/block-analitica)
 
 ## Tools
 
