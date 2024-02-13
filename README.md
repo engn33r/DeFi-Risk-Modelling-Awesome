@@ -39,7 +39,6 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [An Efficient Algorithm for Optimal Routing Through Constant Function Market Makers](https://arxiv.org/abs/2302.04938) by Theo Diamandis, Max Resnick, Tarun Chitra, Guillermo Angeris
 - [Attacks on Dynamic DeFi Interest Rate Curves](https://arxiv.org/pdf/2307.13139.pdf) by Tarun Chitra, Peteris Erins, Kshitij Kulkarni
 - [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://arxiv.org/abs/2305.14604) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
-- [Automated Market Making and Loss-Versus-Rebalancing](https://arxiv.org/abs/2208.06046) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden, Anthony Lee Zhang
 - [Blockchain scaling and liquidity concentration on decentralized exchanges](https://arxiv.org/abs/2306.17742) by Basile Caparros, Amit Chaudhary, Olga Klein
 - [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://arxiv.org/abs/2302.11652) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/abs/2306.09421) by Jason Milionis, Xin Wan, Austin Adams
