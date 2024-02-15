@@ -57,6 +57,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [20squares](https://blog.20squares.xyz/)
 - [RiskDAO](https://riskdao.org/)
 - [Block Analitica](https://medium.com/block-analitica)
+- [Xenophon Labs](https://xenophonlabs.com/portfolio.html)
 
 ## Tools
 
@@ -64,6 +65,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Chaos Lab Uniswap v3 Oracle Manipulation Risk](https://community.chaoslabs.xyz/uniswap/twap)
 - [Agent Buttercup simulation engine](https://github.com/Cozy-Finance/agent-buttercup)
 - [Curve simulation tool](https://github.com/curveresearch/curvesim)
+- [Curve stablecoin simulation tool](https://github.com/xenophonlabs/crvUSDrisk)
 - [DELV agent-based simulation tool](https://github.com/delvtech/elf-simulations)
 - Uniswap v3 simulator [option 1](https://github.com/Bella-DeFinTech/uniswap-v3-simulator), [option 2](https://github.com/aloelabs/uniswap-simulator), [option 3](https://github.com/DefiLab-xyz/uniswap-v3-simulator)
 
