@@ -1,6 +1,6 @@
 # DeFi Risk Modelling Awesome
 
-This repository is a compilation of DeFi cryptoeconomic research and risk modelling research. The economics of lower level blockchain design, such as block production, is out of scope of this repository.
+This repository is a compilation of DeFi cryptoeconomic research and risk modelling research. The economics of lower level blockchain design, such as block production and MEV, is mostly out of scope of this repository.
 
 ## Papers
 
@@ -37,17 +37,25 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 
 - [A Myersonian Framework for Optimal Liquidity Provision in Automated Market Makers](https://arxiv.org/abs/2303.00208) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [An Efficient Algorithm for Optimal Routing Through Constant Function Market Makers](https://arxiv.org/abs/2302.04938) by Theo Diamandis, Max Resnick, Tarun Chitra, Guillermo Angeris
-- [Attacks on Dynamic DeFi Interest Rate Curves](https://arxiv.org/pdf/2307.13139.pdf) by Tarun Chitra, Peteris Erins, Kshitij Kulkarni
+- [Attacks on Dynamic DeFi Interest Rate Curves](https://arxiv.org/abs/2307.13139) by Tarun Chitra, Peteris Erins, Kshitij Kulkarni
 - [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://arxiv.org/abs/2305.14604) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [Blockchain scaling and liquidity concentration on decentralized exchanges](https://arxiv.org/abs/2306.17742) by Basile Caparros, Amit Chaudhary, Olga Klein
 - [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://arxiv.org/abs/2302.11652) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/abs/2306.09421) by Jason Milionis, Xin Wan, Austin Adams
-- [Liquidity fragmentation on decentralized exchanges](https://arxiv.org/pdf/2307.13772.pdf) by Alfred Lehar, Christine Parlour, and Marius Zoican
+- [Fragmentation and optimal liquidity supply on decentralized exchanges](https://arxiv.org/abs/2307.13772) by Alfred Lehar, Christine Parlour, and Marius Zoican
 - [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://eprint.iacr.org/2023/254) by Kaihua Qin, Jens Ernstberger, Liyi Zhou, Philipp Jovanovic, Arthur Gervais
 - [The Geometry of Constant Function Market Makers](https://arxiv.org/abs/2308.08066) by Guillermo Angeris, Tarun Chitra, Theo Diamandis, Alex Evans, Kshitij Kulkarni
-- [The Pricing And Hedging Of Constant Function Market Makers](https://arxiv.org/pdf/2306.11580.pdf) by Richard Dewey, Craig Newbold
+- [The Pricing And Hedging Of Constant Function Market Makers](https://arxiv.org/abs/2306.11580) by Richard Dewey, Craig Newbold
 - [The Principal–Agent Problem in Liquid Staking](https://eprint.iacr.org/2023/605) by Apostolos Tzinas, Dionysis Zindros
 - [When Bidders Are DAOs](https://arxiv.org/abs/2306.17099) by Maryam Bahrani, Pranav Garimidi, Tim Roughgarden
+
+### 2024
+
+- [An Analysis of Intent-Based Markets](https://arxiv.org/abs/2403.02525) by Tarun Chitra, Kshitij Kulkarni, Mallesh Pai, Theo Diamandis
+- [am-AMM: An Auction-Managed Automated Market Maker](https://arxiv.org/abs/2403.03367) by Austin Adams, Ciamac Moallemi, Sara Reynolds, Dan Robinson
+- [Don't Let MEV Slip: The Costs of Swapping on the Uniswap Protocol](https://arxiv.org/abs/2309.13648) by Austin Adams, Benjamin Y Chan, Sarit Markovich, Xin Wan
+- [Layer 2 be or Layer not 2 be: Scaling on Uniswap v3](https://arxiv.org/abs/2403.09494) by Austin Adams
+- [Shill-Proof Auctions](https://arxiv.org/abs/2404.00475) by Andrew Komo, Scott Duke Kominers, Tim Roughgarden
 
 ## Research from Risk Modelling Firms
 
