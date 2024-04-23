@@ -7,12 +7,14 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 ### 2019
 
 - [An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380) by Guillermo Angeris, Hsien-Tang Kao, Rei Chiang, Charlie Noyes, Tarun Chitra
+- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/abs/1906.02152) by Ariah Klages-Mundt, Andreea Minca
 
 ### 2020
 
 - [Competitive equilibria between staking and on-chain lending](https://arxiv.org/abs/2001.00919) by Tarun Chitra
 - [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/abs/2003.10001) by Guillermo Angeris, Tarun Chitra
 - [When does the tail wag the dog? Curvature and market making](https://arxiv.org/abs/2012.08040) by Guillermo Angeris, Alex Evans, Tarun Chitra
+- [While Stability Lasts: A Stochastic Model of Non-Custodial Stablecoins](https://arxiv.org/abs/2004.01304) by Ariah Klages-Mundt, Andreea Minca
 - [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156) by Tarun Chitra, Alex Evans
 
 ### 2021
@@ -20,6 +22,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [A Note on Privacy in Constant Function Market Makers](https://arxiv.org/abs/2103.01193) by Guillermo Angeris, Alex Evans, Tarun Chitra
 - [Constant Function Market Makers: Multi-Asset Trades via Convex Optimization](https://arxiv.org/abs/2107.12484) by Guillermo Angeris, Akshay Agrawal, Alex Evans, Tarun Chitra, Stephen Boyd
 - [Optimal Fees for Geometric Mean Market Makers](https://arxiv.org/abs/2104.00446) by Alex Evans, Guillermo Angeris, Tarun Chitra
+- [Presentation and Publication: Loss and Slippage in Networks of Automated Market Makers](https://arxiv.org/abs/2110.09872) by Daniel Engel, Maurice Herlihy
 - [Replicating Market Makers](https://arxiv.org/abs/2103.14769) by Guillermo Angeris, Alex Evans, Tarun Chitra
 - [Replicating Monotonic Payoffs Without Oracles](https://arxiv.org/abs/2111.13740) by Guillermo Angeris, Alex Evans, Tarun Chitra
 
@@ -41,9 +44,11 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Automated Market Making and Arbitrage Profits in the Presence of Fees](https://arxiv.org/abs/2305.14604) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [Blockchain scaling and liquidity concentration on decentralized exchanges](https://arxiv.org/abs/2306.17742) by Basile Caparros, Amit Chaudhary, Olga Klein
 - [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://arxiv.org/abs/2302.11652) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
+- [Detecting Depegs: Towards Safer Passive Liquidity Provision on Curve Finance](https://arxiv.org/abs/2306.10612) - Thomas N. Cintra, Maxwell P. Holloway
 - [FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/abs/2306.09421) by Jason Milionis, Xin Wan, Austin Adams
 - [Fragmentation and optimal liquidity supply on decentralized exchanges](https://arxiv.org/abs/2307.13772) by Alfred Lehar, Christine Parlour, and Marius Zoican
 - [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://eprint.iacr.org/2023/254) by Kaihua Qin, Jens Ernstberger, Liyi Zhou, Philipp Jovanovic, Arthur Gervais
+- [Oracle Counterpoint: Relationships between On-chain and Off-chain Market Data](https://arxiv.org/abs/2303.16331) by Zhimeng Yang, Ariah Klages-Mundt, Lewis Gudgeon
 - [The Geometry of Constant Function Market Makers](https://arxiv.org/abs/2308.08066) by Guillermo Angeris, Tarun Chitra, Theo Diamandis, Alex Evans, Kshitij Kulkarni
 - [The Pricing And Hedging Of Constant Function Market Makers](https://arxiv.org/abs/2306.11580) by Richard Dewey, Craig Newbold
 - [The Principal–Agent Problem in Liquid Staking](https://eprint.iacr.org/2023/605) by Apostolos Tzinas, Dionysis Zindros
