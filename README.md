@@ -46,7 +46,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Complexity-Approximation Trade-offs in Exchange Mechanisms: AMMs vs. LOBs](https://arxiv.org/abs/2302.11652) by Jason Milionis, Ciamac C. Moallemi, Tim Roughgarden
 - [Detecting Depegs: Towards Safer Passive Liquidity Provision on Curve Finance](https://arxiv.org/abs/2306.10612) - Thomas N. Cintra, Maxwell P. Holloway
 - [FLAIR: A Metric for Liquidity Provider Competitiveness in Automated Market Makers](https://arxiv.org/abs/2306.09421) by Jason Milionis, Xin Wan, Austin Adams
-- [Fragmentation and optimal liquidity supply on decentralized exchanges](https://arxiv.org/abs/2307.13772) by Alfred Lehar, Christine Parlour, and Marius Zoican
+- [Fragmentation and optimal liquidity supply on decentralized exchanges](https://arxiv.org/abs/2307.13772) by Alfred Lehar, Christine Parlour, Marius Zoican
 - [Mitigating Decentralized Finance Liquidations with Reversible Call Options](https://eprint.iacr.org/2023/254) by Kaihua Qin, Jens Ernstberger, Liyi Zhou, Philipp Jovanovic, Arthur Gervais
 - [Oracle Counterpoint: Relationships between On-chain and Off-chain Market Data](https://arxiv.org/abs/2303.16331) by Zhimeng Yang, Ariah Klages-Mundt, Lewis Gudgeon
 - [The Geometry of Constant Function Market Makers](https://arxiv.org/abs/2308.08066) by Guillermo Angeris, Tarun Chitra, Theo Diamandis, Alex Evans, Kshitij Kulkarni
@@ -56,6 +56,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 
 ### 2024
 
+- [Agents' Behavior and Interest Rate Model Optimization in Defi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802776) by Charles Bertucci, Louis Bertucci, Mathis Gontier Delaunay, Olivier Gueant, Matthieu Lesbre
 - [An Analysis of Intent-Based Markets](https://arxiv.org/abs/2403.02525) by Tarun Chitra, Kshitij Kulkarni, Mallesh Pai, Theo Diamandis
 - [am-AMM: An Auction-Managed Automated Market Maker](https://arxiv.org/abs/2403.03367) by Austin Adams, Ciamac Moallemi, Sara Reynolds, Dan Robinson
 - [Don't Let MEV Slip: The Costs of Swapping on the Uniswap Protocol](https://arxiv.org/abs/2309.13648) by Austin Adams, Benjamin Y Chan, Sarit Markovich, Xin Wan
