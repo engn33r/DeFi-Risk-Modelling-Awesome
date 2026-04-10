@@ -82,5 +82,6 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Curve stablecoin simulation tool](https://github.com/xenophonlabs/crvUSDrisk)
 - [DELV agent-based simulation tool](https://github.com/delvtech/elf-simulations)
 - Uniswap v3 simulator [option 1](https://github.com/Bella-DeFinTech/uniswap-v3-simulator), [option 2](https://github.com/aloelabs/uniswap-simulator), [option 3](https://github.com/DefiLab-xyz/uniswap-v3-simulator)
+- [Hindenrank](https://hindenrank.com) - Protocol risk rating platform grading 745+ DeFi protocols A-F across 8 cryptoeconomic risk dimensions (mechanism novelty, oracle surface, track record, regulatory risk, and more)
 
 ## Other Resources
