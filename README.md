@@ -81,6 +81,7 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - [Curve simulation tool](https://github.com/curveresearch/curvesim)
 - [Curve stablecoin simulation tool](https://github.com/xenophonlabs/crvUSDrisk)
 - [DELV agent-based simulation tool](https://github.com/delvtech/elf-simulations)
+- [Sharpe Stablecoins](https://www.sharpe.ai/stablecoins) - Stablecoin market intelligence for peg, supply, flow, and risk monitoring.
 - Uniswap v3 simulator [option 1](https://github.com/Bella-DeFinTech/uniswap-v3-simulator), [option 2](https://github.com/aloelabs/uniswap-simulator), [option 3](https://github.com/DefiLab-xyz/uniswap-v3-simulator)
 
 ## Other Resources
