@@ -57,11 +57,34 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 ### 2024
 
 - [Agents' Behavior and Interest Rate Model Optimization in Defi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802776) by Charles Bertucci, Louis Bertucci, Mathis Gontier Delaunay, Olivier Gueant, Matthieu Lesbre
+- [AgileRate: Bringing Adaptivity and Robustness to DeFi Lending Markets](https://arxiv.org/abs/2410.13105) by Mahsa Bastankhah, Viraj Nadkarni, Xuechao Wang, Pramod Viswanath
 - [An Analysis of Intent-Based Markets](https://arxiv.org/abs/2403.02525) by Tarun Chitra, Kshitij Kulkarni, Mallesh Pai, Theo Diamandis
 - [am-AMM: An Auction-Managed Automated Market Maker](https://arxiv.org/abs/2403.03367) by Austin Adams, Ciamac Moallemi, Sara Reynolds, Dan Robinson
+- [Automated Market Making: the case of Pegged Assets](https://arxiv.org/abs/2411.08145) by Philippe Bergault, Louis Bertucci, David Bouba, Olivier Guéant, Julien Guilbert
 - [Don't Let MEV Slip: The Costs of Swapping on the Uniswap Protocol](https://arxiv.org/abs/2309.13648) by Austin Adams, Benjamin Y Chan, Sarit Markovich, Xin Wan
+- [How much should you pay for restaking security?](https://arxiv.org/abs/2408.00928) by Tarun Chitra, Mallesh Pai
 - [Layer 2 be or Layer not 2 be: Scaling on Uniswap v3](https://arxiv.org/abs/2403.09494) by Austin Adams
+- [A mathematical framework for modelling CLMM dynamics in continuous time](https://arxiv.org/abs/2412.18580) by Shen-Ning Tung, Tai-Ho Wang
+- [Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi](https://arxiv.org/abs/2410.07893) by Dongbin Bai, Jiannong Cao, Yinfeng Cao, Long Wen, Milos Stojmenovic
+- [Robust Restaking Networks](https://arxiv.org/abs/2407.21785) by Naveen Durvasula, Tim Roughgarden
 - [Shill-Proof Auctions](https://arxiv.org/abs/2404.00475) by Andrew Komo, Scott Duke Kominers, Tim Roughgarden
+
+### 2025
+
+- [Automated Market Makers: A Stochastic Optimization Approach for Profitable Liquidity Concentration](https://arxiv.org/abs/2504.16542) by Simon Caspar Zeller, Paul-Niklas Ken Kandora, Daniel Kirste, Niclas Kannengießer, Steffen Rebennack, Ali Sunyaev
+- [Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound](https://arxiv.org/abs/2506.12855) by Erum Iftikhar, Wei Wei, John Cartlidge
+- [A Curationary Tale: Logarithmic Regret in DeFi Lending via Dynamic Pricing](https://arxiv.org/abs/2503.18237) by Tarun Chitra
+- [DeFi Liquidation Risk Modeling Using Geometric Brownian Motion](https://arxiv.org/abs/2505.08100) by Timofei Belenko, Georgii Vosorov
+- [Institutionalizing risk curation in decentralized credit](https://arxiv.org/abs/2512.11976) by Anastasiia Zbandut, Carolina Goldstein
+- [Optimal Fees for Liquidity Provision in Automated Market Makers](https://arxiv.org/abs/2508.08152) by Steven Campbell, Philippe Bergault, Jason Milionis, Marcel Nutz
+- [Optimal risk-aware interest rates for decentralized lending protocols](https://arxiv.org/abs/2502.19862) by Bastien Baude, Damien Challet, Ioane Muni Toke
+- [Perpetual Demand Lending Pools](https://arxiv.org/abs/2502.06028) by Tarun Chitra, Theo Diamandis, Nathan Sheng, Luke Sterle, Kamil Yusubov
+
+### 2026
+
+- [A Dynamic Equilibrium Model for Automated Market Makers](https://arxiv.org/abs/2603.08603) by Chengqi Zang, Zhenghui Wang, Weitong Zhang
+- [Pricing and hedging for liquidity provision in Constant Function Market Making](https://arxiv.org/abs/2603.01344) by Jimmy Risk, Shen-Ning Tung, Tai-Ho Wang
+- [Who Restores the Peg? A Mean-Field Game Approach to Model Stablecoin Market Dynamics](https://arxiv.org/abs/2601.18991) by Hardhik Mohanty, Bhaskar Krishnamachari
 
 ## Research from Risk Modelling Firms
 
