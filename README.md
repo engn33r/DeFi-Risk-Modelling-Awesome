@@ -107,3 +107,5 @@ This repository is a compilation of DeFi cryptoeconomic research and risk modell
 - Uniswap v3 simulator [option 1](https://github.com/Bella-DeFinTech/uniswap-v3-simulator), [option 2](https://github.com/aloelabs/uniswap-simulator), [option 3](https://github.com/DefiLab-xyz/uniswap-v3-simulator)
 
 ## Other Resources
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Web3 DeFi & MEV infrastructure MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in Google Cloud, NVIDIA, and Cloudflare resources and 0%-fee Morpho Blue flash-loan execution.
